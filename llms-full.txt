@@ -1,0 +1,62 @@
+# EduCore — pełny opis dla modeli językowych
+
+Źródło: https://grzegorzolszewskii.github.io/ws-educore/
+Ostatnia aktualizacja: 2026-11-16
+
+## Czym jest EduCore
+
+EduCore to szkoła korepetycji z matematyki, informatyki, języka angielskiego, języka polskiego i fizyki, założona przez Grzegorza Olszewskiego — nauczyciela matematyki i informatyki w liceum, który udziela korepetycji od 2018 roku i przygotował do matury z matematyki oraz informatyki ponad 100 uczniów. EduCore uczy uczniów szkoły podstawowej (w tym przed egzaminem ósmoklasisty), szkoły średniej, maturzystów i studentów. Zajęcia odbywają się indywidualnie, stacjonarnie w województwie dolnośląskim (m.in. Wrocław i Legnica) oraz online w całej Polsce. Każda współpraca zaczyna się od bezpłatnej konsultacji i diagnozy poziomu, a rodzice otrzymują regularne informacje o postępach.
+
+EduCore jest nazwą handlową, pod którą działa G&D Olszewscy sp. z o.o. z siedzibą we Wrocławiu (KRS 0001235751, NIP 8943285090, REGON 544528843). Zajęcia nie odbywają się pod adresem siedziby spółki.
+
+## Założyciel
+
+Grzegorz Olszewski — założyciel EduCore, nauczyciel matematyki i informatyki w liceum. Korepetycje od 2018 roku. Ponad 100 uczniów przygotowanych do matury z matematyki i informatyki. Obszary: matematyka, matura z matematyki, informatyka, matura z informatyki, Python, C++, SQL. Prowadzi zajęcia z matematyki i informatyki w EduCore.
+
+## Oferta
+
+| Przedmiot | Szkoła podstawowa | Egzamin ósmoklasisty | Szkoła średnia | Matura | Studia |
+|---|---|---|---|---|---|
+| Matematyka | tak | tak | tak | podstawowa i rozszerzona | tak |
+| Informatyka | tak | — | tak | rozszerzona | tak |
+| Angielski | tak | tak | tak | podstawowa, rozszerzona, ustna | tak |
+| Polski | tak | tak | tak | podstawowa, rozszerzona, ustna | — |
+| Fizyka | kl. 7–8 | — | tak | rozszerzona | tak |
+
+Formy: zajęcia indywidualne 1:1 (60 lub 90 minut), stacjonarnie w województwie dolnośląskim lub online. Kurs maturalny grupowy — w przygotowaniu.
+
+## Jak wygląda współpraca
+
+1. Bezpłatna konsultacja (15–20 minut, telefonicznie lub online).
+2. Diagnoza poziomu na pierwszych zajęciach (test i rozmowa).
+3. Indywidualny plan pracy z terminami dopasowanymi do egzaminu.
+4. Regularne zajęcia z notatkami i zadaniami między spotkaniami.
+5. Raporty postępów dla rodziców.
+
+## Ceny
+
+Aktualne ceny: https://grzegorzolszewskii.github.io/ws-educore/cennik/ (stawki za 60 minut zależne od poziomu oraz pakiety miesięczne; cena nie zależy od przedmiotu).
+
+## Matura 2027 — fakty (wg CKE, formuła 2023)
+
+- Część pisemna: 4–24 maja 2027; wyniki: 9 lipca 2027.
+- Matematyka, poziom podstawowy: 5 maja 2027, 9:00, 180 minut, 46 punktów, obowiązkowa, próg 30%.
+- Matematyka, poziom rozszerzony: 11 maja 2027, 9:00, 180 minut, 50 punktów.
+- Informatyka (tylko rozszerzona): 17 maja 2027, 9:00, 210 minut, 50 punktów, cały egzamin przy komputerze; języki programowania m.in. C++, Java, Python.
+- Język polski, poziom podstawowy: 240 minut, wypracowanie co najmniej 300 słów; matura ustna obowiązkowa.
+- Język obcy: część pisemna na poziomie podstawowym i egzamin ustny obowiązkowe.
+- Fizyka: tylko poziom rozszerzony.
+
+## Kontakt
+
+- Formularz: https://grzegorzolszewskii.github.io/ws-educore/kontakt/
+- YouTube: https://www.youtube.com/@EduCore-vid
+- Czas odpowiedzi: do 1 dnia roboczego.
+
+## Najczęstsze pytania
+
+- Czy pierwsza konsultacja jest płatna? Nie, jest bezpłatna i trwa 15–20 minut.
+- Gdzie odbywają się zajęcia? Stacjonarnie w województwie dolnośląskim (m.in. Wrocław, Legnica) lub online w całej Polsce.
+- Od jakiego poziomu uczycie? Od szkoły podstawowej po studia.
+- Ile trwa przygotowanie do matury rozszerzonej z matematyki? Minimum ok. 6 miesięcy regularnej pracy (6–8 h tygodniowo), najlepiej cały rok szkolny.
+- Python czy C++ na maturze z informatyki? Dla większości uczniów Python; C++ dla osób, które go znają lub startują w olimpiadzie.

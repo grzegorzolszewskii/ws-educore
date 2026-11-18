@@ -1,0 +1,45 @@
+# EduCore
+
+> EduCore to szkoła korepetycji z matematyki, informatyki, języka angielskiego, języka polskiego i fizyki, założona przez Grzegorza Olszewskiego — nauczyciela matematyki i informatyki w liceum, który udziela korepetycji od 2018 roku i przygotował do matury z matematyki oraz informatyki ponad 100 uczniów. Zajęcia indywidualne od szkoły podstawowej po studia, stacjonarnie w województwie dolnośląskim (m.in. Wrocław, Legnica) i online w całej Polsce. Pierwsza konsultacja (15–20 min) jest bezpłatna.
+
+Kluczowe fakty:
+- Nazwa: EduCore (nazwa handlowa G&D Olszewscy sp. z o.o., Wrocław, KRS 0001235751, NIP 8943285090)
+- Założyciel: Grzegorz Olszewski — nauczyciel matematyki i informatyki w liceum, korepetycje od 2018 r.
+- Przedmioty: matematyka, informatyka (Python, C++, SQL), język angielski, język polski, fizyka
+- Poziomy: szkoła podstawowa, egzamin ósmoklasisty, szkoła średnia, matura (podstawowa i rozszerzona), studia
+- Obszar: stacjonarnie województwo dolnośląskie; online cała Polska
+- Proces: bezpłatna konsultacja → diagnoza poziomu → plan i regularne zajęcia → raporty dla rodziców
+- YouTube: https://www.youtube.com/@EduCore-vid
+
+## Oferta
+
+- [Oferta — wszystkie przedmioty i poziomy](https://grzegorzolszewskii.github.io/ws-educore/oferta/): zestawienie przedmiotów, poziomów i form zajęć (1:1, grupa, online, stacjonarnie)
+- [Korepetycje z matematyki](https://grzegorzolszewskii.github.io/ws-educore/oferta/matematyka/): od SP po studia, matura podstawowa i rozszerzona 2027 (fakty i terminy)
+- [Korepetycje z informatyki](https://grzegorzolszewskii.github.io/ws-educore/oferta/informatyka/): matura rozszerzona z informatyki (210 min, 50 pkt, przy komputerze), Python, C++, SQL, programowanie na studiach
+- [Korepetycje z języka angielskiego](https://grzegorzolszewskii.github.io/ws-educore/oferta/angielski/): egzamin ósmoklasisty, matura pisemna i ustna, studia
+- [Korepetycje z języka polskiego](https://grzegorzolszewskii.github.io/ws-educore/oferta/polski/): lektury, wypracowanie maturalne (min. 300 słów), matura ustna, egzamin ósmoklasisty
+- [Korepetycje z fizyki](https://grzegorzolszewskii.github.io/ws-educore/oferta/fizyka/): szkoła podstawowa, liceum, matura rozszerzona, fizyka na studiach technicznych
+- [Kurs maturalny grupowy](https://grzegorzolszewskii.github.io/ws-educore/kurs-maturalny-grupowy/): w przygotowaniu
+- [Cennik](https://grzegorzolszewskii.github.io/ws-educore/cennik/): stawki za 60 minut dla każdego poziomu i pakiety miesięczne
+
+## O EduCore
+
+- [O nas](https://grzegorzolszewskii.github.io/ws-educore/o-nas/): czym jest EduCore, założyciel, dane spółki
+- [Metoda pracy](https://grzegorzolszewskii.github.io/ws-educore/metoda/): diagnoza, plan, zajęcia, raporty dla rodziców
+- [Wyniki i opinie](https://grzegorzolszewskii.github.io/ws-educore/wyniki-i-opinie/): wyniki uczniów i opinie
+- [FAQ](https://grzegorzolszewskii.github.io/ws-educore/faq/): zapisy, zajęcia online i stacjonarne, matura 2027, ceny
+- [Kontakt](https://grzegorzolszewskii.github.io/ws-educore/kontakt/): formularz i umówienie bezpłatnej konsultacji
+
+## Blog
+
+- [Jak przygotować się do matury rozszerzonej z matematyki w 6 miesięcy](https://grzegorzolszewskii.github.io/ws-educore/blog/jak-przygotowac-sie-do-matury-rozszerzonej-z-matematyki-w-6-miesiecy/): plan 25 tygodni do matury 11 maja 2027
+- [Matura z informatyki: Python czy C++?](https://grzegorzolszewskii.github.io/ws-educore/blog/matura-z-informatyki-python-czy-cpp/): porównanie z kodem i rekomendacja
+- [Najczęstsze błędy na maturze z matematyki](https://grzegorzolszewskii.github.io/ws-educore/blog/najczestsze-bledy-na-maturze-z-matematyki/): 12 błędów i jak ich unikać
+- [Ile kosztują korepetycje z matematyki we Wrocławiu](https://grzegorzolszewskii.github.io/ws-educore/blog/ile-kosztuja-korepetycje-z-matematyki-wroclaw/): od czego zależy cena i jak wybrać korepetytora
+- [Korepetycje online czy stacjonarne](https://grzegorzolszewskii.github.io/ws-educore/blog/korepetycje-online-czy-stacjonarne/): porównanie obu form
+
+## Optional
+
+- [Pełna treść dla modeli językowych](https://grzegorzolszewskii.github.io/ws-educore/llms-full.txt)
+- [Polityka prywatności](https://grzegorzolszewskii.github.io/ws-educore/polityka-prywatnosci/)
+- [Regulamin](https://grzegorzolszewskii.github.io/ws-educore/regulamin/)

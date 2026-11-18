@@ -1,0 +1,5 @@
+# EduCore — TRYB PRZEDPREMIEROWY (strona w budowie).
+# Ten plik blokuje wszystkie roboty. Wersja produkcyjna (z listą crawlerów AI i sitemapą)
+# jest w tools/robots.production.txt i podmienia ten plik automatycznie przy INDEXING=true.
+User-agent: *
+Disallow: /

@@ -1,0 +1,58 @@
+{
+  "_info": "Centralna konfiguracja strony EduCore. Po zmianie uruchom: node tools/sync-layout.mjs (albo kliknij dwukrotnie aktualizuj.bat). Przy publikacji GitHub Actions robi to automatycznie.",
+
+  "siteUrl": "https://grzegorzolszewskii.github.io/ws-educore",
+
+  "brand": "EduCore",
+  "tagline": "Korepetycje z matematyki, informatyki, angielskiego, polskiego i fizyki — stacjonarnie na Dolnym Śląsku i online w całej Polsce.",
+  "description": "EduCore to szkoła korepetycji założona przez Grzegorza Olszewskiego, nauczyciela matematyki i informatyki w liceum. Uczymy od szkoły podstawowej po studia: indywidualnie, stacjonarnie w województwie dolnośląskim i online w całej Polsce.",
+
+  "founder": {
+    "name": "Grzegorz Olszewski",
+    "jobTitle": "Założyciel EduCore, nauczyciel matematyki i informatyki",
+    "since": "2018"
+  },
+
+  "phone": "[NUMER]",
+  "email": "[E-MAIL]",
+
+  "freeSlots": "[DO UZUPEŁNIENIA]",
+  "freeSlotsGroup": "[DO UZUPEŁNIENIA]",
+
+  "formEndpoint": "https://formspree.io/f/[DO_UZUPELNIENIA]",
+
+  "analytics": {
+    "_info": "provider: \"\" (wyłączona), \"umami\" lub \"plausible\". Dla Umami wpisz websiteId i scriptUrl, dla Plausible tylko domain (i ewentualnie scriptUrl).",
+    "provider": "",
+    "scriptUrl": "",
+    "websiteId": "",
+    "domain": ""
+  },
+
+  "social": {
+    "youtube": "https://www.youtube.com/@EduCore-vid",
+    "facebook": "",
+    "instagram": "",
+    "tiktok": "",
+    "linkedinFounder": "",
+    "googleBusiness": ""
+  },
+
+  "company": {
+    "name": "G&D Olszewscy sp. z o.o.",
+    "street": "ul. Stanisławowska 47",
+    "postalCode": "54-611",
+    "city": "Wrocław",
+    "krs": "0001235751",
+    "nip": "8943285090",
+    "regon": "544528843"
+  },
+
+  "verification": {
+    "_info": "Wklej same kody (content) z meta tagów weryfikacyjnych Google Search Console i Bing Webmaster Tools.",
+    "google": "",
+    "bing": ""
+  },
+
+  "indexNowKey": "ba4935809b80f2130f1ad09ce5cf9b56"
+}

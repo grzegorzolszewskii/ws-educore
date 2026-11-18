@@ -1,0 +1,77 @@
+# EduCore — automatyczna publikacja na GitHub Pages po każdym pushu na gałąź main.
+#
+# Zmienne repozytorium (Settings → Secrets and variables → Actions → zakładka Variables):
+#   SITE_URL  — adres strony bez "/" na końcu, np. https://twojadomena.pl
+#               (gdy nieustawiona: https://grzegorzolszewskii.github.io/ws-educore)
+#   INDEXING  — "true" wyłącza tryb przedpremierowy (usuwa noindex, włącza robots.txt i sitemapę dla robotów)
+#   INDEXNOW  — "true" po publikacji zgłasza adresy do IndexNow (Bing, Yandex i inne); działa tylko przy INDEXING=true
+
+name: Publikacja na GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  SITE_URL: ${{ vars.SITE_URL || 'https://grzegorzolszewskii.github.io/ws-educore' }}
+  INDEXING: ${{ vars.INDEXING || 'false' }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pobranie repozytorium
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # pełna historia — potrzebna do dat lastmod w sitemap.xml
+
+      - name: Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Budowanie strony
+        run: node tools/build.mjs
+
+      - name: Konfiguracja Pages
+        uses: actions/configure-pages@v5
+
+      - name: Wysłanie plików
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publikacja
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  indexnow:
+    needs: deploy
+    if: ${{ vars.INDEXING == 'true' && vars.INDEXNOW == 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Zgłoszenie adresów do IndexNow
+        run: node tools/build.mjs --ping-indexnow
